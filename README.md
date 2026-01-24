@@ -1,6 +1,11 @@
 ### About me:
-I like to program with low level languages like C++, C and Rust and my favorite types of projects are games and interpreters. I'm currently trying to learn more about electronics.
-### Used tools:
+I have experience with low level languages and DoD, as well as foundational skills for Arduino and web development. My favorite types of projects are games and interpreters and I like to work on projects from embedded systems to simple websites.
+### Used Languages:
 <div>
-  <img src="https://skillicons.dev/icons?i=cpp,c,rust,git,github,vscode,cmake,linux"></img>
+  <img src="https://skillicons.dev/icons?i=cpp,c,javascript,typescript"></img>
+</div>
+
+### Used Tools:
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,cmake,linux,arduino"></img>
 </div>
