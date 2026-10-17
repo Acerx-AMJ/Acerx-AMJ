@@ -6,6 +6,8 @@ I love creating all kinds of projects from games to interpreters and websites. M
   <img src="https://skillicons.dev/icons?i=cpp,c,javascript,python,lua"></img>
 </div>
 
+<img align="right" width=128 height=128 src="demon_large1_temp-animated.gif"/>
+
 ### Used Tools:
 <div>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,cmake,linux,arduino"></img>
@@ -24,5 +26,3 @@ I love creating all kinds of projects from games to interpreters and websites. M
 <br>
 
 Feel free to reach out.
-
-<img width=128 height=128 src="demon_large1_temp-animated.gif"/>
