@@ -1,28 +1,38 @@
 ### About me:
-I love creating all kinds of projects from games to interpreters and websites. Most of my projects are open-source. Those that aren't, aren't important. I'm into all kinds of art - writing, drawing, composing and game development. I also like to take walks and tinker with electronics. Check out <a href="https://acerx-amj.github.io/pages/index.html">my website</a> for more.
+I love creating all kinds of projects from games to interpreters and websites. Most of my projects are open-source. I'm into all kinds of art - writing, drawing, composing and game development. I also like to take walks and tinker with electronics. Check out <a href="https://acerx-amj.github.io/pages/index.html">my website</a> for more.
 
 ### Used Languages:
 <div>
-  <img src="https://skillicons.dev/icons?i=cpp,c,javascript,python,lua"></img>
+  <img height=48 src="assets/cpp.png"/>
+  <img height=48 src="assets/c.png"/>
+  <img height=48 src="assets/js.png"/>
+  <img height=48 src="assets/python.png"/>
+  <img height=48 src="assets/lua.png"/>
+  <img height=48 src="assets/pil_logo.png"/>
 </div>
 
-<img align="right" width=128 height=128 src="demon_large1_temp-animated.gif"/>
+<img align="right" width=128 src="assets/demon1.gif"/>
 
 ### Used Tools:
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,cmake,linux,arduino"></img>
+  <img height=48 src="assets/git.png"/>
+  <img height=48 src="assets/github.png"/>
+  <img height=48 src="assets/vscode.png"/>
+  <img height=48 src="assets/godot.png"/>
+  <img height=48 src="assets/tux.png"/>
+  <img height=48 src="assets/cmake.png"/>
+  <img height=48 src="assets/raylib.png"/>
+  <img height=48 src="assets/sfml.png"/>
 </div>
 
 ### Creator of:
-<div>
-  <a href="https://github.com/pil-esolang/PIL"><img width="414" height="128" src="https://github.com/user-attachments/assets/e99d8b59-1d19-4007-902b-6ba9716834b3" /></a>
-</div>
-<br>
-<div>
-  <a href="https://github.com/Acerx-AMJ/Sandbox-2D"><img width="384" height="64" src="https://github.com/user-attachments/assets/3d32fdf5-327e-4e1f-930d-1b70d82eedfa" />
-</a>
-</div>
+<img align="right" width=64 src="assets/demon2.gif"/>
 
-<br>
+<a href="https://github.com/pil-esolang/PIL"><img width="414" height="128" src="assets/pil.png"/></a>
+<br><br>
+<a href="https://github.com/Acerx-AMJ/Sandbox-2D"><img width="384" height="64" src="assets/sandbox2d.png"/></a>
 
+<hr>
 Feel free to reach out.
+
+<img width=64 src="assets/slime1.gif"/>
