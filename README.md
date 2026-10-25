@@ -8,7 +8,6 @@ I love creating all kinds of projects from games to interpreters and websites. M
   <img height=48 src="assets/js.png"/>
   <img height=48 src="assets/python.png"/>
   <img height=48 src="assets/lua.png"/>
-  <img height=48 src="assets/pil_logo.png"/>
 </div>
 
 <img align="right" width=128 src="assets/demon1.gif"/>
