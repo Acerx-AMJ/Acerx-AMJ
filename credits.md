@@ -12,3 +12,5 @@ Animated demon and slime GIFs as well as Sandbox-2D and PIL logos are made by me
 - Raylib logo: Raysan51, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>
 - SFML logo is public domain https://www.sfml-dev.org/download/goodies/
 - SQLite3 logo is public domain by D. Richard Hipp.
+
+Images are downscaled to their physical size to save space and network time.
