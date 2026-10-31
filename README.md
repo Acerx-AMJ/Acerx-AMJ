@@ -30,9 +30,12 @@ I love creating all kinds of projects from games to interpreters and websites. M
 
 <a href="https://github.com/pil-esolang/PIL"><img width="240" src="assets/pil.png"/></a>
 <a href="https://github.com/Acerx-AMJ/SRU-Library"><img width="200" src="assets/sru.png"/></a>
-<br><br>
-<a href="https://github.com/Acerx-AMJ/Sandbox-2D"><img width="384" src="assets/sandbox2d.png"/></a>
+
+<a href="https://github.com/Acerx-AMJ/Sandbox-2D"><img width="420" src="assets/sandbox2d.png"/></a>
 <a href="https://github.com/Acerx-AMJ/CX-Lib"><img width="200" src="assets/cx.png"/></a>
+
+<a href="https://github.com/Acerx-AMJ/abyss_ascendant"><img width="190" src="assets/aa.png"/></a>
+<a href="https://github.com/Acerx-AMJ/astral-surge"><img width="390" src="assets/as.png"/></a>
 
 <hr>
 Feel free to reach out.
