@@ -1,5 +1,5 @@
 ### About me:
-I love creating all kinds of projects from games to interpreters and websites. Most of my projects are open-source. I'm into all kinds of art - writing, drawing, composing and game development. I also like to take walks and tinker with electronics. Check out <a href="https://acerx-amj.github.io/pages/index.html">my website</a> for more.
+I love creating all kinds of projects from games to interpreters and websites. Most of my projects are open-source. I'm into all kinds of art - writing, drawing, composing and game development. I also like to take walks and tinker with electronics. Check out <a href="https://acerx-amj.github.io">my website</a> for more.
 
 ### Used Languages:
 <div>
@@ -36,6 +36,8 @@ I love creating all kinds of projects from games to interpreters and websites. M
 
 <a href="https://github.com/Acerx-AMJ/abyss_ascendant"><img width="190" src="assets/aa.png"/></a>
 <a href="https://github.com/Acerx-AMJ/astral-surge"><img width="390" src="assets/as.png"/></a>
+
+<a href="https://github.com/Acerx-AMJ/block_placer"><img width="500" src="assets/bp.png"/></a>
 
 <hr>
 Feel free to reach out.
